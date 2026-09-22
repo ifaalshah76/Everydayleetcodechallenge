@@ -14,6 +14,7 @@
 | [0584-find-customer-referee](https://github.com/ifaalshah76/Everydayleetcodechallenge/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/ifaalshah76/Everydayleetcodechallenge/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/ifaalshah76/Everydayleetcodechallenge/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/ifaalshah76/Everydayleetcodechallenge/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/ifaalshah76/Everydayleetcodechallenge/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/ifaalshah76/Everydayleetcodechallenge/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ifaalshah76/Everydayleetcodechallenge/tree/master/1141-user-activity-for-the-past-30-days-i) |
