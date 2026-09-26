@@ -19,6 +19,7 @@
 | [0595-big-countries](https://github.com/ifaalshah76/Everydayleetcodechallenge/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/ifaalshah76/Everydayleetcodechallenge/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/ifaalshah76/Everydayleetcodechallenge/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/ifaalshah76/Everydayleetcodechallenge/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/ifaalshah76/Everydayleetcodechallenge/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ifaalshah76/Everydayleetcodechallenge/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/ifaalshah76/Everydayleetcodechallenge/tree/master/1148-article-views-i) |
