@@ -1,13 +1,13 @@
 WITH cte AS
 (
-    SELECT
-        id,
+    SELECT 
         num,
-        LAG(num, 1) OVER (ORDER BY id) AS prev1,
-        LAG(num, 2) OVER (ORDER BY id) AS prev2
+        LEAD(num) OVER(ORDER BY id) AS nxt,
+        LAG(num) OVER(ORDER BY id) AS prev
     FROM Logs
 )
-SELECT DISTINCT num AS ConsecutiveNums
+SELECT DISTINCT
+    num AS ConsecutiveNums
 FROM cte
-WHERE num = prev1
-  AND num = prev2;
+WHERE num = nxt
+  AND num = prev;
